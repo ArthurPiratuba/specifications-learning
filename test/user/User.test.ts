@@ -1,4 +1,4 @@
-import User from "../src/domain/entity/User";
+import User from "../../src/user/User";
 
 test("Não deve criar um usuário com o nome inválido", function () {
     expect(() => new User("John", "john.doe@email.com")).toThrow("Invalid parameter")

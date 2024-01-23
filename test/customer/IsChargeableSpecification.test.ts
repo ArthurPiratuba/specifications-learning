@@ -1,4 +1,5 @@
-import Customer, { IsChargeableSpecification } from "../../src/customer/Customer";
+import Customer from "../../src/customer/Customer";
+import IsChargeableSpecification from "../../src/customer/IsChargeableSpecification";
 
 test("Deve validar de um cliente é cobrável, precisa de cpf e email", function () {
     let customer = new Customer("1", "John Doe");

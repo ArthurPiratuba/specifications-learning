@@ -1,0 +1,14 @@
+{
+  "name": "specifications-learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ArthurPiratuba/specifications-learning.git",
+  "author": "Arthur Samuel Hack <arthur.hack.live@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.2",
+    "typescript": "^5.3.3"
+  }
+}

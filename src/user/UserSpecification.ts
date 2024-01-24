@@ -1,4 +1,4 @@
-import User from "../User";
+import User from "./User";
 
 interface Specification<T> {
     isSatisfiedBy(t: T): boolean;

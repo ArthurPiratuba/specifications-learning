@@ -1,5 +1,4 @@
 import Customer from "../../src/customer/Customer";
-import IsChargeableSpecification from "../../src/customer/IsChargeableSpecification";
 import { IsLeadBlackFridaySpecification } from "../../src/customer/IsLeadBlackFridaySpecification";
 import IsLeadChristmasSpecification from "../../src/customer/IsLeadChristmasSpecification";
 
